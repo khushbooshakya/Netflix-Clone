@@ -1,1 +1,1 @@
-neoflex-video-subscription-cms
+netflix-video-subscription-cms
